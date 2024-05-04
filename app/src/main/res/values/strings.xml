@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">VolleyExample</string>
+    <string name="click_to_send">Click Here To Send HTTP Request To Server And See Response Displayed As Toast</string>
+    <string name="visit_course">Visit Course</string>
+</resources>
